@@ -103,6 +103,8 @@ Expect misty sunrises, muddy trails, surprise showers, and unlimited monsoon vib
 This trip is not just about sightseeing – it's about bonding, exploring nature, and creating shared stories that last forever.  
 So put on your raincoats, tie your shoes tight, and let the monsoon magic do the rest!
 
+> *“Life isn’t about waiting for the storm to pass, it’s about learning to dance in the rain.”* – Vivian Greene
+
 ---
 
 ### 📝 **Note**
@@ -114,6 +116,3 @@ So put on your raincoats, tie your shoes tight, and let the monsoon magic do the
 So keep your ponchos ready, your spirits high, and your schedule loose — nature leads the way!
 
 ---
-
-
-> *“Life isn’t about waiting for the storm to pass, it’s about learning to dance in the rain.”* – Vivian Greene

@@ -63,13 +63,13 @@ public class CurrencyResponseDTO {
 
 #### 📌 Endpoints to Implement
 
-| Method | Endpoint                            | Action                     |
-|--------|-------------------------------------|----------------------------|
-| GET    | `/api/location/currencies`          | List all currencies        |
-| GET    | `/api/location/currencies/{id}`     | Get currency by ID         |
-| POST   | `/api/location/currencies`          | Add new currency           |
-| PUT    | `/api/location/currencies/{id}`     | Update existing currency   |
-| DELETE | `/api/location/currencies/{id}`     | Delete currency by ID      |
+| Method | Endpoint                   | Action                     |
+|--------|----------------------------|----------------------------|
+| GET    | `/api/currencies`          | List all currencies        |
+| GET    | `/api/currencies/{id}`     | Get currency by ID         |
+| POST   | `/api/currencies`          | Add new currency           |
+| PUT    | `/api/currencies/{id}`     | Update existing currency   |
+| DELETE | `/api/currencies/{id}`     | Delete currency by ID      |
 
 ---
 
